@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "devsafe": "rm -r && next dev",
+    "devsafe": "rm -r .next && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
