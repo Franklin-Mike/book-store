@@ -12,8 +12,8 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
-       fontFamily: {
-        allison: ['Allison', 'cursive'],
+      fontFamily: {
+        allison: ["Allison", "cursive"],
       },
     },
   },
